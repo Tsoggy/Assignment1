@@ -27,10 +27,13 @@ The challenges I encountered within excel were all user error: I missed a punctu
   2. Kickstarters during the month of December have an almost equal likelihood of being successful as failing.
 
 - What can you conclude about the Outcomes based on Goals?
-   Generally speaking, there is a higher likelood of failure with a higher fundraising goal, except for a few projects that still may succeed with high fundraising goals. We do not, however, know why those succeeded. Keeping fundraising goals below $14,999 increases the chances of success.
+  
+  Generally speaking, there is a higher likelood of failure with a higher fundraising goal, except for a few projects that still may succeed with high fundraising goals. We do not, however, know why those succeeded. Keeping fundraising goals below $14,999 increases the chances of success.
 
 - What are some limitations of this dataset?
-   This dataset is missing a few key pieces of data that may be relevant to the outcome. We do not know how many people were involved in each kickstarter and whether more people fundraising for one project would result in greater success vs. less people fundraising. This data doesn't show the demographics of those who contributed financially. If, for example, very few people gave large sums of money to the projects, it would be important to know which people and how to target them for future contributions.
+  
+  This dataset is missing a few key pieces of data that may be relevant to the outcome. We do not know how many people were involved in each kickstarter and whether more people fundraising for one project would result in greater success vs. less people fundraising. This data doesn't show the demographics of those who contributed financially. If, for example, very few people gave large sums of money to the projects, it would be important to know which people and how to target them for future contributions.
 
 - What are some other possible tables and/or graphs that we could create?
+  
   We could create a table that delivered information about which years produced more successful outcomes, as well as which years produced less successful outcomes. We could create a table that showed successful outcomes based on how much time each kickstarter had to fundraise to see if there is a correlation between longer fundraising and success in meeting goals.
