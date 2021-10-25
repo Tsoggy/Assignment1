@@ -23,6 +23,7 @@ The challenges I encountered within excel were all user error: I missed a punctu
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+  
   1. The best month for launching a kickstarter is during the month of May.
   2. Kickstarters during the month of December have an almost equal likelihood of being successful as failing.
 
