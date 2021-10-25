@@ -3,7 +3,7 @@
 ## Susan Tsoglin
 
 ### Purpose of this project.
-This is our first project. Using excel, this project analyzes different kickstarter projects: when their campaigns were launched and how successful the campaigns were based on dollar amount pledged vs. the original goal.
+Using excel, we analyze different kickstarter projects: when the kickstarter campaigns were launched and how successful the campaigns were based on dollar amount pledged vs. the original goal.
 
 ## Analysis and Challenges
 
@@ -21,8 +21,8 @@ The challenges I encountered within excel were all user error: I missed a punctu
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-  1. The best month for launching a kickstarter is during the month of May.
-  2. Kickstarters during the month of December have an almost equal likelihood of being successful as failing.
+  1.The best month for launching a kickstarter is during the month of May.
+  2.Kickstarters during the month of December have an almost equal likelihood of being successful as failing.
 
 - What can you conclude about the Outcomes based on Goals?
   Generally speaking, there is a higher likelood of failure with a higher fundraising goal, except for a few projects that still may succeed with high fundraising goals. We do not, however, know why those succeeded. Keeping fundraising goals below $14,999 increases the chances of success.
