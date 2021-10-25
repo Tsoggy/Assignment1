@@ -9,10 +9,12 @@ Using excel, we analyze different kickstarter projects: when the kickstarter cam
 
 ### Analysis of Outcomes Based on Launch Date
 Based on the data, Louise would have a greater likelihood of succeeding with her fundraising goals if she was to launch her kickstarter in May.
+
 [Analysis of Outcomes Based on Launch Date] (Resources/Theater_Outcomes_vs_Launch_Date.png)
 
 ### Analysis of Outcomes Based on Goals
 More projects were successful with lower fundraising goals. In addition, due to the fact that we have a very large amount of projects with lower fundraising goals, we know that if Louise were to have a lower goal, her kickstarter would have a much greater likelihood of succeeding. The larger the goal, the less trustworthy the data; there are very few projects with larger fundraising goals, and the reasons behind why each project succeeded or failed isn't clear here.
+
 [Analysis of Outcomes Based on Goals] (Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
