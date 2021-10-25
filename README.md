@@ -8,7 +8,7 @@ This is our first project. Using excel, this project analyzes different kickstar
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+![Analysis of Outcomes Based on Launch Date] (Resources/Uploading Theater_Outcomes_vs_Launch_Date.png)
 
 ### Analysis of Outcomes Based on Goals
 
